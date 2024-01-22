@@ -576,8 +576,14 @@ def display_menu():
             print("Must merge two or more accounts")
         else:
             account_numbers_to_merge = []
+            users = get_data()
             for i in range(number_of_accounts):
                 account_number = input("Account " + str((i+1)) + ": Account number to merge: ")
+                while account_number == "" or account_number not in users:
+                    print("──── Error ──────────────────────────────────")
+                    print("Invalid entry. Please try again.")
+                    print("─────────────────────────────────────────────")
+                    account_number = input("Account " + str((i+1)) + ": Account number to merge: ")
                 account_numbers_to_merge.append(account_number)
             merge_accounts(account_numbers_to_merge)
 

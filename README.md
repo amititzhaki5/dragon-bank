@@ -5,7 +5,7 @@
 
 Project by Zeynab Akbari for the Data Structure course in Islamic Azad University, under the guidance of Dr. Maryam Haji Esmaeli.
 
-This system is for a bank owner to mange the accounts within their information by allowing them to create accounts, edit their information, perform transactions, delete them if necessary and search through them, sorted by any fields they desire.
+This system is for a bank owner to mange the accounts within their information by allowing them to create accounts, edit their information, perform transactions, merge multiple accounts with the same user information into one, delete them if necessary and search through them, sorted by any fields they desire.
 
 Incorporates Linked Lists, Heap Sort, Binary Tree & Binary Search for various operations.
 
