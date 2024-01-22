@@ -1,6 +1,6 @@
 # Dragon Bank
 
-<img width="644" alt="Screen Shot of Dragon Bank" src="https://user-images.githubusercontent.com/93328643/174447368-d8fba103-2da1-4cd2-a6e8-035ba3f24422.png">
+<img width="644" alt="Screen Shot of Dragon Bank" src="https://github.com/amititzhaki5/images/assets/125477450/f6ea16ee-4422-41c2-b9ff-23848aa2f9ce">
 
 
 Project by Zeynab Akbari for the Data Structure course in Islamic Azad University, under the guidance of Dr. Maryam Haji Esmaeli.
